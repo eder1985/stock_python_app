@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Nome dinâmico com data e hora
 timestamp = datetime.now().strftime("%Y%m%d_%H%M")
-nome_executavel = f"MotoEstoque_Pro_{timestamp}"
+nome_executavel = f"stock_python_app_{timestamp}"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ctk_path = os.path.dirname(customtkinter.__file__)
