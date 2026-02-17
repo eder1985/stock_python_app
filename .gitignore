@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Banco de Dados (Dados sensíveis e locais) ---
+estoque_motos.db
+backups/
+
+# --- Assets Locais (Fotos das peças) ---
+imagens_estoque/
+
+# --- Build e Distribuição ---
+dist/
+build/
+*.spec
+*.exe
+
+# --- Editores e IDEs ---
+.vscode/
+.idea/
+.DS_Store (Mac)
