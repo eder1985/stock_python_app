@@ -28,5 +28,6 @@ Antes de iniciar, você precisará ter instalado:
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/eder1985/stock_python_app.git](https://github.com/eder1985/stock_python_app.git)
+git clone https://github.com/eder1985/stock_python_app.git
+
 cd stock_python_app
